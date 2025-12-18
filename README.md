@@ -1,11 +1,11 @@
-Credit Card Default Prediction Project
+CREDIT CARD RISK PREDICTION 
 Project Overview
 
 The Credit Card Default Prediction System predicts the likelihood of a credit card user defaulting on payment. The project is implemented using Python and Object-Oriented Programming (OOP) concepts (classes, objects, functions).
 
 It includes data preprocessing, feature selection, model training, evaluation, and deployment via a web interface.
 
-Features
+FEATURES
 
 Data Preprocessing
 
@@ -38,8 +38,6 @@ Model Evaluation
 Test Accuracy
 
 Classification Report
-
-Confusion Matrix
 
 ROC Curve & AUC Score
 
@@ -84,7 +82,5 @@ Credit_Card_Default_Prediction/
 │   └── evaluation.py
 └── README.md
 
-
-Confusion Matrix
 
 ROC Curve
