@@ -80,7 +80,7 @@ All cleaned and balanced data was trained on multiple models:
 - AdaBoost
 
 ✔️ *Each model was trained and tested independently*
-
+- Best Model is Logistic Regression
 ---
 
 ## 📊 Model Evaluation Metrics
@@ -138,9 +138,7 @@ Each model was evaluated using:
 
 ## 📌 Conclusion
 
-This project demonstrates a **complete real-world machine learning workflow**:
-from raw data preprocessing to **model deployment**, making it suitable for
-**academic projects, resumes, and interviews**.
+This project was built to demonstrate practical implementation of a **real-world Machine Learning pipeline** in finance.
 
 ---
 
