@@ -1,0 +1,66 @@
+2025-12-15 18:25:12,979 - INFO - =========KNN===========
+2025-12-15 18:25:31,451 - INFO - KNN Test Accuracy : 0.8860333333333333
+2025-12-15 18:25:45,527 - INFO - KNN Classification report :              precision    recall  f1-score   support
+
+           0       0.20      0.26      0.23      1956
+           1       0.95      0.93      0.94     28044
+
+    accuracy                           0.89     30000
+   macro avg       0.58      0.59      0.58     30000
+weighted avg       0.90      0.89      0.89     30000
+
+2025-12-15 18:25:45,527 - INFO - =========NB===========
+2025-12-15 18:25:45,664 - INFO - Naive Bayes Test Accuracy : 0.9336666666666666
+2025-12-15 18:25:45,739 - INFO - Navie Bayes Classification report :              precision    recall  f1-score   support
+
+           0       0.29      0.01      0.02      1956
+           1       0.94      1.00      0.97     28044
+
+    accuracy                           0.93     30000
+   macro avg       0.61      0.50      0.49     30000
+weighted avg       0.89      0.93      0.90     30000
+
+2025-12-15 18:25:45,739 - INFO - =========LR===========
+2025-12-15 18:25:46,162 - INFO - LogisticRegression Test Accuracy : 0.9257
+2025-12-15 18:25:46,225 - INFO - LogisticRegression Test Classification report :               precision    recall  f1-score   support
+
+           0       0.08      0.01      0.02      1956
+           1       0.93      0.99      0.96     28044
+
+    accuracy                           0.93     30000
+   macro avg       0.51      0.50      0.49     30000
+weighted avg       0.88      0.93      0.90     30000
+
+2025-12-15 18:25:46,225 - INFO - =========DT===========
+2025-12-15 18:25:51,360 - INFO - DecisionTreeClassifier Test Accuracy : 0.8508333333333333
+2025-12-15 18:25:51,440 - INFO - DecisionTreeClassifier Classification repport :               precision    recall  f1-score   support
+
+           0       0.18      0.37      0.25      1956
+           1       0.95      0.88      0.92     28044
+
+    accuracy                           0.85     30000
+   macro avg       0.57      0.63      0.58     30000
+weighted avg       0.90      0.85      0.87     30000
+
+2025-12-15 18:25:51,440 - INFO - =========RF===========
+2025-12-15 18:25:59,161 - INFO - RandomForestClassifier Test Accuracy : 0.9196666666666666
+2025-12-15 18:25:59,260 - INFO - RandomForestClassifier Classification report :               precision    recall  f1-score   support
+
+           0       0.35      0.27      0.31      1956
+           1       0.95      0.96      0.96     28044
+
+    accuracy                           0.92     30000
+   macro avg       0.65      0.62      0.63     30000
+weighted avg       0.91      0.92      0.91     30000
+
+2025-12-15 18:25:59,260 - INFO - =========Adabost===========
+2025-12-15 18:26:01,044 - INFO - AdaBoostClassifier Test Accuracy : 0.9338666666666666
+2025-12-15 18:26:01,129 - INFO - AdaBoostClassifier Classification report :               precision    recall  f1-score   support
+
+           0       0.22      0.01      0.01      1956
+           1       0.94      1.00      0.97     28044
+
+    accuracy                           0.93     30000
+   macro avg       0.58      0.50      0.49     30000
+weighted avg       0.89      0.93      0.90     30000
+
