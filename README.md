@@ -22,7 +22,7 @@ This project helps in making **data-driven decisions** by predicting default ris
 
 ---
 
-## 🔁 Project Workflow (High-Level Diagram)
+## 🔁 Project Workflow 
 
 
 ---
